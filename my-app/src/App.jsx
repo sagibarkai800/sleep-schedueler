@@ -1,5 +1,4 @@
 import React, { useContext, useState } from 'react'
-import './App.css'
 import { SleepScheduleContext } from './SleepScheduleContext.jsx'
 import BabyProfileForm from './BabyProfileForm.jsx'
 import DailyScheduleView from './DailyScheduleView.jsx'
